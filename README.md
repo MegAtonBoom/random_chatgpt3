@@ -2,7 +2,9 @@
 
 nothing much more to say about this repo, just testing programming stupid stuff with chat gpt3 
 
-## snake.c: basic snake game, needed some changes from the original code to make some improvements,
+## snake.c 
+    basic snake game, needed some changes from the original code to make some improvements,
+    
     but it was actually very buggy in the first place: 
     -The snake and food position were set correctly at the beginning but not used to print them (like wtf) making them spawn at the beginning of the first 2 rows, 
     not even moving
